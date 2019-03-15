@@ -1,0 +1,6 @@
+K:\Docs\work\Projects\C#\SquareCalculator\SquareCalculator\bin\Release\SquareCalculator.dll
+K:\Docs\work\Projects\C#\SquareCalculator\SquareCalculator\bin\Release\SquareCalculator.pdb
+K:\Docs\work\Projects\C#\SquareCalculator\SquareCalculator\obj\Release\SquareCalculator.csproj.CoreCompileInputs.cache
+K:\Docs\work\Projects\C#\SquareCalculator\SquareCalculator\obj\Release\SquareCalculator.dll
+K:\Docs\work\Projects\C#\SquareCalculator\SquareCalculator\obj\Release\SquareCalculator.pdb
+K:\Docs\work\Projects\C#\SquareCalculator\SquareCalculator\obj\Release\SquareCalculator.csprojAssemblyReference.cache

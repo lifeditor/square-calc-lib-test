@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareCalcLib", "SquareCalcLib\SquareCalcLib.csproj", "{56973F08-AED4-4E8E-AE32-E09AE7004776}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareCalcLib.Tests", "SquareCalcLib.Tests\SquareCalcLib.Tests.csproj", "{01E7EA6B-877C-497B-94B9-CD10054C2159}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56973F08-AED4-4E8E-AE32-E09AE7004776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56973F08-AED4-4E8E-AE32-E09AE7004776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56973F08-AED4-4E8E-AE32-E09AE7004776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56973F08-AED4-4E8E-AE32-E09AE7004776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01E7EA6B-877C-497B-94B9-CD10054C2159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01E7EA6B-877C-497B-94B9-CD10054C2159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01E7EA6B-877C-497B-94B9-CD10054C2159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01E7EA6B-877C-497B-94B9-CD10054C2159}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AE52A06-F542-47FA-B46F-3976229F1AFD}
+	EndGlobalSection
+EndGlobal
