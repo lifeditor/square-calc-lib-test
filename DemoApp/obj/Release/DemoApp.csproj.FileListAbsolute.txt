@@ -1,0 +1,10 @@
+K:\Docs\work\Projects\C#\SquareCalcLib\DemoApp\obj\Release\DemoApp.csproj.CoreCompileInputs.cache
+K:\Docs\work\Projects\C#\SquareCalcLib\DemoApp\bin\Release\DemoApp.exe.config
+K:\Docs\work\Projects\C#\SquareCalcLib\DemoApp\bin\Release\DemoApp.exe
+K:\Docs\work\Projects\C#\SquareCalcLib\DemoApp\bin\Release\DemoApp.pdb
+K:\Docs\work\Projects\C#\SquareCalcLib\DemoApp\bin\Release\SquareCalcLib.dll
+K:\Docs\work\Projects\C#\SquareCalcLib\DemoApp\bin\Release\SquareCalcLib.pdb
+K:\Docs\work\Projects\C#\SquareCalcLib\DemoApp\obj\Release\DemoApp.csproj.CopyComplete
+K:\Docs\work\Projects\C#\SquareCalcLib\DemoApp\obj\Release\DemoApp.exe
+K:\Docs\work\Projects\C#\SquareCalcLib\DemoApp\obj\Release\DemoApp.pdb
+K:\Docs\work\Projects\C#\SquareCalcLib\DemoApp\obj\Release\DemoApp.csprojAssemblyReference.cache
